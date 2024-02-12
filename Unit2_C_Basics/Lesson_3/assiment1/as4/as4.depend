@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1707038568 source:c:\users\google\desktop\working\as4\main.c
+	<stdio.h>
+	<stdlib.h>
+
