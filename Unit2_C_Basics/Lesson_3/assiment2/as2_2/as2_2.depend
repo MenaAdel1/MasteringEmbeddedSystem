@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1707145133 source:c:\users\google\desktop\working\as2_2\main.c
+	<stdio.h>
+	<stdlib.h>
+
